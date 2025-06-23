@@ -1,4 +1,4 @@
-# Local_Network_Scanning
+# Local Network Scanning
 A simple network scanning project using Nmap on both Kali Linux and Windows to identify live hosts and open ports in a local network. Useful for beginners learning cybersecurity and ethical hacking.
 
 # 🔍 Nmap Network Scanning Project – Kali Linux & Windows

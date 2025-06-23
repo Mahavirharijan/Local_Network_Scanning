@@ -1,0 +1,20 @@
+This project scan the local networking using Nmap to find open ports.
+
+C:\Users\mahav>nmap -sS 192.168.224.0/24
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-06-23 20:43 +0530
+Nmap scan report for 192.168.224.66
+Host is up (0.00058s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: B6:BD:1E:1B:6C:21 (Unknown)
+
+Nmap scan report for 192.168.224.153
+Host is up (0.00050s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap done: 256 IP addresses (2 hosts up) scanned in 38.75 seconds

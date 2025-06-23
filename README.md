@@ -15,7 +15,7 @@ To discover live hosts and open ports in the local network using a TCP SYN scan 
 
 ## 🛠 Tools & Technologies
 
-- 💻 *Operating Systems*: Kali Linux & Windows 10
+- 💻 *Operating Systems*: Kali Linux & Windows 11
 - 📡 *Tool*: Nmap
 - 💬 *Terminal/Command Prompt*: Used to execute Nmap commands
 - 🗃 *Text Editor*: Notepad for viewing results
